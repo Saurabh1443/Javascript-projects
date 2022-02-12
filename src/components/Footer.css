@@ -1,0 +1,49 @@
+img{
+   
+    top:80px;
+  height:300px;
+ 
+}
+  .vid1{
+ object-fit:contain;
+    background-size:cover;
+width:300px;
+height:300px;
+margin-left:50px;
+margin-top:-3px;
+position:absolute;
+
+
+  }
+  .footer_video1{
+  display:flex;
+position:relative;
+right:0px;
+margin-top:0px;
+    flex-wrap:wrap;
+    left:10px;
+    object-fit:contain;
+ 
+  }
+  .footer_main{
+    background-color:black;
+    height:100vh;
+    color:white;
+    width:100%;
+    
+  }
+  .content1{
+   
+    margin-top:70px;
+    margin-left:60px;
+  margin-right:0px;
+  }
+  
+   .footer_sub1{
+     display:flex;
+    overflow-x: hidden;
+    overflow-y: hidden;
+   }
+  
+  
+  
